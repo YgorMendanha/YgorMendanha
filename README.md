@@ -1,25 +1,37 @@
-<h1 align="center" style="color:#ea7af4;"><img height="25" src="favicon.ico"/> Ygor Mendanha </h1>
+<h1 align="center"><img height="25" src="icons/Rocket.ico"/> Ygor Mendanha </h1>
 
 <p align="center">
-Oii, meu nome é Ygor e  tenho 23 anos! 👋 😀
+Oii! Eu sou o Ygor e tenho 23 anos! 👋 😀 
 </p>
-
-<br/><br/>
+<br>
 
 <p>
 
-Estou na busca de aumentar minha experiencia como Developer e me tornar um Full-Stack! 💻
+Estou na busca de aumentar minha experiencia como Developer e me tornar um Full-Stack! 💻 
 
-Trabalho principalmente com React, no Front, Node e Express, no Back.
-
+Tecnologias que mais uso:
 </p>
 
-<br/>
+<div align="center"><br>
+  <img align="center" alt="Ygor-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Ygor-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Ygor-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Ygor-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Ygor-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Ygor-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
+</div>
+
+<br><br>
 
 <p align="center" >Veja Meu Portfoilo e alguns Projetos Clicando <a href="https://ygormendanha.github.io/Portfolio/">Aqui</a> 🚀
 </p>
+<div align="center">
+<img alt="Ygor-Js" height="100" width="100" src="https://i.picasion.com/pic92/027abdd8064c7fc85b67ed1a662f20ee.gif">
 
+</div>
 <br/><br/>
+
+
 
 <div align="center">
 
@@ -30,7 +42,7 @@ Trabalho principalmente com React, no Front, Node e Express, no Back.
 <br/><br/>
  
 <p>
-Me Siga nas Redes Sociais: 😉
+Me Siga nas Redes Sociais: 
 </p>
 
 <p align="center">
