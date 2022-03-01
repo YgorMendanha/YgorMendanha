@@ -1,27 +1,4 @@
-<h1 align="center"><img height="25" src="icons/Rocket.ico"/> Ygor Mendanha </h1>
 
-<p align="center">
-Oii! Eu sou o Ygor e tenho 23 anos! 👋 😀 
-</p>
-<br>
-
-<p>
-
-Estou na busca de aumentar minha experiencia como Developer e me tornar um Full-Stack! 💻 
-
-Tecnologias que mais uso:
-</p>
-
-<div align="center"><br>
-  <img align="center" alt="Ygor-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Ygor-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Ygor-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Ygor-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Ygor-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Ygor-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
-</div>
-
-<br><br>
 
 <p align="center" >Veja Meu Portfoilo e alguns Projetos Clicando <a href="https://ygormendanha.github.io/Portfolio/">Aqui</a> 🚀
 </p>
@@ -32,25 +9,22 @@ Tecnologias que mais uso:
 <br/><br/>
 
 
+<div align="center"><br>
+  <img align="center" alt="Ygor-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Ygor-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Ygor-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Ygor-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Ygor-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Ygor-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
+</div>
+
+<br/><br/>
 
 <div align="center">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YgorMendanha&langs_count=4&card_width=500&title_color=ea7af4&text_color=ea7af4&bg_color=1B0D3C)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
-
-
-<div align="center">
-
-![Snake animation](https://github.com/YgorMendanha/YgorMendanha/blob/output/github-contribution-grid-snake.svg)
-  
-</div>
-
-<br/><br/>
- 
-<p>
-Me Siga nas Redes Sociais: 
-</p>
 
 <p align="center">
     <a href="https://www.linkedin.com/in/ygormendanha"/>
@@ -66,3 +40,12 @@ Me Siga nas Redes Sociais:
     <img alt="github" src="https://img.shields.io/github/followers/YgorMendanha?color=181717&logo=github&style=for-the-badge&label=github" />
   </a>
 </p>
+
+<div align="center">
+
+![Snake animation](https://github.com/YgorMendanha/YgorMendanha/blob/output/github-contribution-grid-snake.svg)
+  
+</div>
+
+<br/> 
+
