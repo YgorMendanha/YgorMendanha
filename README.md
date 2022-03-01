@@ -39,6 +39,13 @@ Tecnologias que mais uso:
 
 </div>
 
+
+<div align="center">
+
+![Snake animation](https://github.com/YgorMendanha/YgorMendanha/blob/output/github-contribution-grid-snake.svg)
+  
+</div>
+
 <br/><br/>
  
 <p>
