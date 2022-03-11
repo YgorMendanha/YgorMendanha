@@ -4,12 +4,12 @@
 </p>
 <div align="center">
 <img alt="Ygor-Js" height="100" width="100" src="https://i.picasion.com/pic92/027abdd8064c7fc85b67ed1a662f20ee.gif">
-
 </div>
+
 <br/><br/>
 
 
-<div align="center"><br>
+<div align="center" ><br>
   <img align="center" alt="Ygor-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Ygor-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Ygor-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -23,6 +23,8 @@
 <div align="center">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YgorMendanha&langs_count=4&card_width=500&title_color=ea7af4&text_color=ea7af4&bg_color=1B0D3C)](https://github.com/anuraghazra/github-readme-stats)
+
+<img alt="Ygor-Js" height="300" width="300" src="comp_13.gif">
 
 </div>
 
