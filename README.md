@@ -22,11 +22,12 @@
 
 <div align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YgorMendanha&langs_count=4&card_width=500&title_color=ea7af4&text_color=ea7af4&bg_color=1B0D3C)](https://github.com/anuraghazra/github-readme-stats)
-
-<img alt="Animation" height="300" width="300" src="Animation.gif">
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YgorMendanha&langs_count=4&card_width=450&title_color=ea7af4&text_color=ea7af4&bg_color=1B0D3C)](https://github.com/anuraghazra/github-readme-stats)
+<img alt="Animation" height="250" width="200" src="Animation.gif">
 
 </div>
+
+<br/> 
 
 <p align="center">
     <a href="https://www.linkedin.com/in/ygormendanha"/>
