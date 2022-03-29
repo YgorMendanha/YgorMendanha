@@ -12,7 +12,7 @@
 <div align="center" ><br>
   <img align="center" alt="Ygor-JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Ygor-TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Ygor-python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+  <img align="center" alt="Ygor-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
   <img align="center" alt="Ygor-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Ygor-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Ygor-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -22,7 +22,7 @@
 <br/><br/>
 
 <div align="center">
-
+  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YgorMendanha&langs_count=4&card_width=450&title_color=ea7af4&text_color=ea7af4&bg_color=1B0D3C)](https://github.com/anuraghazra/github-readme-stats)
 <img alt="Animation" height="250" width="200" src="Animation.gif">
 
