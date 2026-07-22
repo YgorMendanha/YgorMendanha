@@ -4,9 +4,9 @@
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=B983FF&center=true&vCenter=true&width=600&lines=Founder+%40+YM+Desenvolvimento;Full+Stack+Developer+%F0%9F%92%BB;React+%7C+Next.js+%7C+Node.js" alt="Typing SVG" />
 </p>
 
-<table border="0" cellspacing="0" cellpadding="0" style="border:none;">
-<tr style="border:none;">
-<td width="55%" valign="top" style="border:none;">
+<p align="center">
+  <img src="./assets/coding.svg" width="420" alt="animated code editor" />
+</p>
 
 ### 🚀 About me
 
@@ -16,13 +16,6 @@ Full Stack Developer based in Manaus, Brazil, and founder of **YM Desenvolviment
 - 🌱 Always learning something new in software development
 - 💬 Ask me about JavaScript, TypeScript, React or Next.js
 - 📫 Reach me through the links below
-
-</td>
-<td width="45%" align="center" style="border:none;">
-  <img src="./assets/coding.svg" width="360" alt="animated code editor" />
-</td>
-</tr>
-</table>
 
 <h2 align="center">📊 GitHub Stats</h2>
 
