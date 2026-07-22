@@ -1,19 +1,45 @@
-<h1 align="center">Hi 👋, I'm Ygor Mendanha</h1>
+<h1 align="center">Hi, I'm Ygor Mendanha 👋</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=B983FF&center=true&vCenter=true&width=600&lines=Founder+%40+YM+Desenvolvimento;Full+Stack+Developer+%F0%9F%92%BB;React+%7C+Next.js+%7C+Node.js" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img alt="Visitor Badge" src="https://komarev.com/ghpvc/?username=YgorMendanha&color=8957e5&style=flat&label=profile+views" />
+</p>
+
+<table>
+<tr>
+<td width="55%" valign="top">
+
+### 🚀 About me
+
+Full Stack Developer based in Manaus, Brazil, and founder of **YM Desenvolvimento**, a software studio designing custom-built architecture to help businesses scale — from e-commerce and ERP systems to automation and SaaS platforms. I work mainly with **React**, **Next.js** and **Node.js**, plus **Python** and **AWS** for automation and infrastructure.
+
+- 🔭 Currently building **Eixo**, a modular SaaS platform for medical clinics with WhatsApp automation and an AI copilot
+- 🛠️ Every project starts with a real diagnosis of the business, not a pre-built template
+- 🌱 Always learning something new in software development
+- 💬 Ask me about JavaScript, TypeScript, React or Next.js
+- 📫 Reach me through the links below
+
+</td>
+<td width="45%" align="center">
+  <img src="./assets/coding.svg" width="360" alt="animated code editor" />
+</td>
+</tr>
+</table>
+
+<h2 align="center">📊 GitHub Stats</h2>
 
 <div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YgorMendanha&theme=midnight_purple" width=750  alt="stats graph"/>
-
+  <img src="https://raw.githubusercontent.com/YgorMendanha/YgorMendanha/output/metrics.svg" width=800 alt="metrics" />
 </div>
 
 <div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YgorMendanha&theme=midnight_purple" width=375  alt="stats graph"/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=YgorMendanha&theme=midnight_purple" width=375  alt="stats graph"/>
-
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YgorMendanha&theme=midnight-purple&hide_border=true" alt="streak stats" />
 </div>
 
 <h2 align="center">Languages and Tools</h2>
-
-###
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="52" alt="python logo"  />
@@ -23,27 +49,29 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="40" width="52" alt="amazonwebservices logo"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" height="40" width="52" alt="nodejs logo"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" height="40" width="52" alt="jupyter logo"/>
-  
-  
+</div>
+
+<h2 align="center">🐍 Contributions</h2>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/YgorMendanha/YgorMendanha/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </div>
 
 <h2 align="center">Find Me</h2>
 
 <p align="center">
-    <a target="_blank" href="https://www.linkedin.com/in/ygormendanha"/>
-        <img alt="linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white&link=mailto:https://www.linkedin.com/in/ygormendanha/">
-    </a>   
+    <a target="_blank" href="https://www.linkedin.com/in/ygormendanha">
+        <img alt="linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">
+    </a>
     <a target="_blank" href="https://github.com/YgorMendanha">
-    <img alt="github" src="https://img.shields.io/github/followers/YgorMendanha?color=181717&logo=github&style=flat&label=github" />
-  </a>
-  <a target="_blank" href="https://wa.me/message/YQXEGG4GZBDDG1">
-    <img alt="Static Badge" src="https://img.shields.io/badge/whatsapp-green?logo=whatsapp&logoColor=white&style=flat&color=25D366&link=https%3A%2F%2Fwa.me%2Fmessage%2FYQXEGG4GZBDDG1">
-  </a>
-  <a target="_blank" href="https://www.ygormendanha.com">
-    <img alt="Static Badge" src="https://img.shields.io/badge/site-green?logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAAACXBIWXMAAAsTAAALEwEAmpwYAAACiElEQVR4nO2ZTWoUQRSAKztDormCGF14iGjiiMsERcgVks2sIgzmIHFE8AzRuFFIVBByAY1uXCgYIbbGSSYbwU8e84Si0j%2FVPenqCvQHAz1NVc37pru63qs2pqWlJXqA28BjYA840o8c94GOiR3gKvCGYl5LWxMjwDyQ4E8CzJmYAG4Ax5TnZzRXRu554CQlyE29SlP6keNnKe12YpX4C6zl9HmYInMrbOR%2BEl2PvltOv40wUZ8OZKGqhPUn2HwwoQGuA4dVJQTgotP%2FtwkJMAG8G0dCAC45YxyakAB3UiZqr8I4HWeM9%2FVEnB3AUyeAl3KVKozzotHJDnxyAlisMMaDlKu6UE%2FE2UEMrR%2FfBS7o%2BbvAPnAA3M%2Fp39U5ZbMdVMIREYkZPbcM%2FLECOyghkQCzTYh8LJAQvntKnEjaElxCA1otkJDv9zwlOo1IOMFlSSw7a07v3ErIAwBYAl45bcJISAaqpeie1glHOidWS0jM6BwiuARwJac8LZrYvhJJrRO7oDw9K4mdWh%2BxOZVdKQltsyKpuJa7A8mdJO2g7hU7R0Jyp0VrxS6UiLGy69kJ4HmV6DrtljzmxEpTEvO%2B5SnwtUBiN3gNYe0AJr6VHfCtQEIYmNBwep3ILU%2F11voCfJZjPTfpPGIHTWwou6xVGEfkGi1P%2B04AmxXGmEjJnZ7UE3EGmi%2FZlE4V9NHc7O4go5XWZqpk%2F7R64m19EfuLTI8p8Qu4ZkLDKC0vfWtlSAybLE%2F7TjDPx5BofNfcZb1g3ykuif%2FoOzuXLa0Kp3VTuZOyAxiPhABc1s2zsgyj2CiwkRePJV9W%2FgBumhgBZjNuM5dtqeVN7DB64%2FRIS9JB0PK0paXFnAX%2FAHEX6S1QU5bLAAAAAElFTkSuQmCC&logoColor=white&color=AA49E6&link=https%3A%2F%2Fwww.ygormendanha.com.br&style=flat">
-
-  </a>
-
+      <img alt="github" src="https://img.shields.io/github/followers/YgorMendanha?color=181717&logo=github&style=for-the-badge&label=github&logoColor=white" />
+    </a>
+    <a target="_blank" href="https://wa.me/message/YQXEGG4GZBDDG1">
+      <img alt="whatsapp" src="https://img.shields.io/badge/whatsapp-25D366?logo=whatsapp&logoColor=white&style=for-the-badge">
+    </a>
+    <a target="_blank" href="https://www.ygormendanha.com">
+      <img alt="site" src="https://img.shields.io/badge/site-AA49E6?logo=googlechrome&logoColor=white&style=for-the-badge">
+    </a>
 </p>
 
 <div align="center" >

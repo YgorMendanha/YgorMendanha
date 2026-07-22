@@ -1,0 +1,55 @@
+<svg width="560" height="320" viewBox="0 0 560 320" xmlns="http://www.w3.org/2000/svg" font-family="Fira Code, Consolas, Menlo, monospace">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#1b0f30"/>
+      <stop offset="100%" stop-color="#0f0820"/>
+    </linearGradient>
+  </defs>
+
+  <rect x="1" y="1" width="558" height="318" rx="14" fill="url(#bg)" stroke="#3a2a5c" stroke-width="1"/>
+
+  <rect x="1" y="1" width="558" height="36" rx="14" fill="#22143c"/>
+  <rect x="1" y="23" width="558" height="14" fill="#22143c"/>
+  <circle cx="24" cy="19" r="6" fill="#f25f58"/>
+  <circle cx="44" cy="19" r="6" fill="#fbbe3c"/>
+  <circle cx="64" cy="19" r="6" fill="#58cb42"/>
+  <text x="290" y="24" text-anchor="middle" fill="#a78bda" font-size="13">ygor@dev: ~</text>
+
+  <g font-size="16">
+    <text x="28" y="80" fill="#6b7280" font-style="italic">$ whoami</text>
+
+    <text x="28" y="118" opacity="0">
+      <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.05;0.08;0.85;0.92;1" dur="8s" repeatCount="indefinite"/>
+      <tspan fill="#7dd3fc">const</tspan><tspan fill="#e2e8f0"> ygor </tspan><tspan fill="#94a3b8">=</tspan><tspan fill="#e2e8f0"> {</tspan>
+    </text>
+
+    <text x="48" y="150" opacity="0">
+      <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.15;0.18;0.85;0.92;1" dur="8s" repeatCount="indefinite"/>
+      <tspan fill="#c4b5fd">role</tspan><tspan fill="#94a3b8">: </tspan><tspan fill="#86efac">'Full Stack Developer'</tspan><tspan fill="#94a3b8">,</tspan>
+    </text>
+
+    <text x="48" y="182" opacity="0">
+      <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.25;0.28;0.85;0.92;1" dur="8s" repeatCount="indefinite"/>
+      <tspan fill="#c4b5fd">company</tspan><tspan fill="#94a3b8">: </tspan><tspan fill="#86efac">'YM Desenvolvimento'</tspan><tspan fill="#94a3b8">,</tspan>
+    </text>
+
+    <text x="48" y="214" opacity="0">
+      <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.35;0.38;0.85;0.92;1" dur="8s" repeatCount="indefinite"/>
+      <tspan fill="#c4b5fd">stack</tspan><tspan fill="#94a3b8">: [</tspan><tspan fill="#fdba74">'React'</tspan><tspan fill="#94a3b8">, </tspan><tspan fill="#fdba74">'Next.js'</tspan><tspan fill="#94a3b8">, </tspan><tspan fill="#fdba74">'Node.js'</tspan><tspan fill="#94a3b8">],</tspan>
+    </text>
+
+    <text x="48" y="246" opacity="0">
+      <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.45;0.48;0.85;0.92;1" dur="8s" repeatCount="indefinite"/>
+      <tspan fill="#c4b5fd">focus</tspan><tspan fill="#94a3b8">: </tspan><tspan fill="#86efac">'SaaS &amp; E-commerce'</tspan><tspan fill="#94a3b8">,</tspan>
+    </text>
+
+    <text x="28" y="278" opacity="0">
+      <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.55;0.58;0.85;0.92;1" dur="8s" repeatCount="indefinite"/>
+      <tspan fill="#e2e8f0">};</tspan>
+    </text>
+
+    <rect x="52" y="264" width="10" height="18" fill="#c4b5fd">
+      <animate attributeName="opacity" values="1;1;0;0;1" keyTimes="0;0.55;0.6;0.65;1" dur="0.9s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+</svg>
