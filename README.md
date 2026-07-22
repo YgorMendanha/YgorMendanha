@@ -4,10 +4,6 @@
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=B983FF&center=true&vCenter=true&width=600&lines=Founder+%40+YM+Desenvolvimento;Full+Stack+Developer+%F0%9F%92%BB;React+%7C+Next.js+%7C+Node.js" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img alt="Visitor Badge" src="https://komarev.com/ghpvc/?username=YgorMendanha&color=8957e5&style=flat&label=profile+views" />
-</p>
-
 <table border="0" cellspacing="0" cellpadding="0" style="border:none;">
 <tr style="border:none;">
 <td width="55%" valign="top" style="border:none;">
@@ -59,16 +55,16 @@ Full Stack Developer based in Manaus, Brazil, and founder of **YM Desenvolviment
 
 <p align="center">
     <a target="_blank" href="https://www.linkedin.com/in/ygormendanha">
-        <img alt="linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">
+        <img alt="linkedin" src="./assets/icons/linkedin.svg" width="48" height="48" />
     </a>
     <a target="_blank" href="https://github.com/YgorMendanha">
-      <img alt="github" src="https://img.shields.io/github/followers/YgorMendanha?color=181717&logo=github&style=for-the-badge&label=github&logoColor=white" />
+      <img alt="github" src="./assets/icons/github.svg" width="48" height="48" />
     </a>
     <a target="_blank" href="https://wa.me/message/YQXEGG4GZBDDG1">
-      <img alt="whatsapp" src="https://img.shields.io/badge/whatsapp-25D366?logo=whatsapp&logoColor=white&style=for-the-badge">
+      <img alt="whatsapp" src="./assets/icons/whatsapp.svg" width="48" height="48" />
     </a>
     <a target="_blank" href="https://www.ygormendanha.com">
-      <img alt="site" src="https://img.shields.io/badge/site-AA49E6?logo=googlechrome&logoColor=white&style=for-the-badge">
+      <img alt="site" src="./assets/icons/site.svg" width="48" height="48" />
     </a>
 </p>
 
