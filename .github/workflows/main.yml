@@ -17,7 +17,7 @@ jobs:
       - uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
-          options: username=YgorMendanha&theme=midnight-purple&hide_border=true&show_icons=true&count_private=true&include_all_commits=true
+          options: username=YgorMendanha&theme=midnight-purple&hide_border=true&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true
           path: dist/stats.svg
           token: ${{ secrets.METRICS_TOKEN }}
 
