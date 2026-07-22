@@ -20,7 +20,8 @@ Full Stack Developer based in Manaus, Brazil, and founder of **YM Desenvolviment
 <h2 align="center">📊 GitHub Stats</h2>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/YgorMendanha/YgorMendanha/output/metrics.svg" width=800 alt="metrics" />
+  <img src="https://raw.githubusercontent.com/YgorMendanha/YgorMendanha/output/stats.svg" alt="stats" />
+  <img src="https://raw.githubusercontent.com/YgorMendanha/YgorMendanha/output/top-langs.svg" alt="top languages" />
 </div>
 
 <div align="center">
