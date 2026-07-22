@@ -32,6 +32,7 @@ jobs:
           plugin_languages_analysis_timeout: 15
           plugin_languages_limit: 12
           plugin_languages_threshold: 0%
+          config_animations: yes
 
       # Both files above land in dist/ and get pushed together so
       # this step doesn't force-push over the other's output.

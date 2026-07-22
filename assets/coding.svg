@@ -40,7 +40,7 @@
 
     <text x="48" y="246" opacity="0">
       <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.45;0.48;0.85;0.92;1" dur="8s" repeatCount="indefinite"/>
-      <tspan fill="#c4b5fd">focus</tspan><tspan fill="#94a3b8">: </tspan><tspan fill="#86efac">'SaaS &amp; E-commerce'</tspan><tspan fill="#94a3b8">,</tspan>
+      <tspan fill="#c4b5fd">focus</tspan><tspan fill="#94a3b8">: </tspan><tspan fill="#86efac">'E-commerce, ERP &amp; SaaS'</tspan><tspan fill="#94a3b8">,</tspan>
     </text>
 
     <text x="28" y="278" opacity="0">

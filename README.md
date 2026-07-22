@@ -16,7 +16,6 @@
 
 Full Stack Developer based in Manaus, Brazil, and founder of **YM Desenvolvimento**, a software studio designing custom-built architecture to help businesses scale — from e-commerce and ERP systems to automation and SaaS platforms. I work mainly with **React**, **Next.js** and **Node.js**, plus **Python** and **AWS** for automation and infrastructure.
 
-- 🔭 Currently building **Eixo**, a modular SaaS platform for medical clinics with WhatsApp automation and an AI copilot
 - 🛠️ Every project starts with a real diagnosis of the business, not a pre-built template
 - 🌱 Always learning something new in software development
 - 💬 Ask me about JavaScript, TypeScript, React or Next.js
@@ -43,11 +42,17 @@ Full Stack Developer based in Manaus, Brazil, and founder of **YM Desenvolviment
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="52" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height="40" width="52" alt="typescript logo"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="40" width="52" alt="react logo"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" height="40" width="52" alt="nextjs logo"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" height="40" width="52" alt="tailwindcss logo"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="40" width="52" alt="amazonwebservices logo"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" height="40" width="52" alt="nodejs logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" height="40" width="52" alt="postgresql logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" height="40" width="52" alt="redis logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" height="40" width="52" alt="docker logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="40" width="52" alt="git logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-plain.svg" height="40" width="52" alt="github actions logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="40" width="52" alt="amazonwebservices logo"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" height="40" width="52" alt="jupyter logo"/>
 </div>
 
