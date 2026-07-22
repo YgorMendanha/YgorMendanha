@@ -8,9 +8,9 @@
   <img alt="Visitor Badge" src="https://komarev.com/ghpvc/?username=YgorMendanha&color=8957e5&style=flat&label=profile+views" />
 </p>
 
-<table>
-<tr>
-<td width="55%" valign="top">
+<table border="0" cellspacing="0" cellpadding="0" style="border:none;">
+<tr style="border:none;">
+<td width="55%" valign="top" style="border:none;">
 
 ### 🚀 About me
 
@@ -22,7 +22,7 @@ Full Stack Developer based in Manaus, Brazil, and founder of **YM Desenvolviment
 - 📫 Reach me through the links below
 
 </td>
-<td width="45%" align="center">
+<td width="45%" align="center" style="border:none;">
   <img src="./assets/coding.svg" width="360" alt="animated code editor" />
 </td>
 </tr>
@@ -53,12 +53,6 @@ Full Stack Developer based in Manaus, Brazil, and founder of **YM Desenvolviment
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="40" width="52" alt="git logo"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="40" width="52" alt="amazonwebservices logo"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" height="40" width="52" alt="jupyter logo"/>
-</div>
-
-<h2 align="center">🐍 Contributions</h2>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/YgorMendanha/YgorMendanha/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </div>
 
 <h2 align="center">Find Me</h2>
