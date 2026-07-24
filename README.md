@@ -54,7 +54,7 @@ Full Stack Developer based in Manaus, Brazil, and founder of **YM Desenvolviment
     <a target="_blank" href="https://github.com/YgorMendanha">
       <img alt="github" src="./assets/icons/github.svg" width="48" height="48" />
     </a>
-    <a target="_blank" href="https://wa.me/message/YQXEGG4GZBDDG1">
+    <a target="_blank" href="https://wa.me/559281298199)">
       <img alt="whatsapp" src="./assets/icons/whatsapp.svg" width="48" height="48" />
     </a>
     <a target="_blank" href="https://www.ygormendanha.com">
