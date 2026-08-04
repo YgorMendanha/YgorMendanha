@@ -15,7 +15,7 @@ Full Stack Developer based in Manaus, Brazil, and founder of **YM Desenvolviment
 - 🛠️ Every project starts with a real diagnosis of the business, not a pre-built template
 - 🌱 Always learning something new in software development
 - 💬 Ask me about JavaScript, TypeScript, React or Next.js
-- 📫 Reach me through the links below
+- 📫 Reach me through the links below 
 
 <h2 align="center">📊 GitHub Stats</h2>
 
